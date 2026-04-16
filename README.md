@@ -4,7 +4,7 @@
 
 #
 
-## IMPORTANT: I don't have time to imporove this app anymore. Only critical bugs will be fixed.
+## IMPORTANT: This is a branch purely for preservation as the old app is no longer maintained.
 
 #
 
@@ -14,9 +14,9 @@ Free texture packer creates sprite sheets for you game or site. Rotation, trimmi
 
 Homepage: [https://free-tex-packer.com](https://free-tex-packer.com)
 
-Web version: [https://free-tex-packer.com/app](https://free-tex-packer.com/app)
+Web version: [https://free-tex-packer.com/app](https://archieyates.github.io/free-tex-packer/)
 
-Desktop versions for win, mac, linux: [https://github.com/odrick/free-tex-packer/releases](https://github.com/odrick/free-tex-packer/releases)
+Desktop versions for win, mac, linux: [https://github.com/archieyates/free-tex-packer/releases](https://github.com/archieyates/free-tex-packer/releases)
 
 Gulp module: [https://github.com/odrick/gulp-free-tex-packer](https://github.com/odrick/gulp-free-tex-packer)
 
